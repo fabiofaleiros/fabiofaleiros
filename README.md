@@ -12,13 +12,14 @@
 
 <p align="left">Software Engineer at Axians Portugal</p>
 
-This [Axians (https://www.axians.pt)][website] is awesome.
+[Link][1] 
+[Another Link][2]
+![Picture Me Link][3]
+<https://hey-look-im-a-link.link/>
 
-You will never use anything else than this [website].
-
-Check out <https://stackoverflow.com> for more fun.
-
-[website]: https://stackoverflow.com
+[1]: <https://somelink.domain/> "This text right here is fantastic because when you scroll over the link now it says everything that I wrote in this paragraph."
+[2]: <https://im-another-link.com/> "I'm another link after the first link"
+[3]: <!--https://aws-amazon-com/?nc2=h_lg--> "Stack Overflow Won't let me post a picture."
 
 ###
 
