@@ -10,8 +10,6 @@
 
 ###
 
-<p align="left">Software Engineer at Axians Portugal</p>
-
 Software Engineer at [Axians Portugal][1]
 
 [1]: <https://axians.pt/> "Axians Portugal."
