@@ -10,9 +10,9 @@
 
 ###
 
-<p align="left">Software Engineer at [Axians Portugal (https://www.axians.pt/)]</p>
+<p align="left">Software Engineer at <https://stackoverflow.com> [Axians (https://www.axians.pt/)]</p>
 
-This [website (https://stackoverflow.com)][website] is awesome.
+This [Axians (https://www.axians.pt)][website] is awesome.
 
 You will never use anything else than this [website].
 
