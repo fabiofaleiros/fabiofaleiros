@@ -1,3 +1,19 @@
+<h2 align="left">👋 Hi there, welcome to my Github profile</h2>
+
+###
+
+<p align="left">My name is Fábio Faleiros de Siqueira, and I am a Software Engineer based in Portugal.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Software Engineer at @Axians Portugal</p>
+
+###
+
 <h2 align="left">Technologies</h2>
 
 ###
