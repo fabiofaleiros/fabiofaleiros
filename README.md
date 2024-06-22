@@ -12,6 +12,14 @@
 
 <p align="left">Software Engineer at [Axians Portugal (https://www.axians.pt/)][website]</p>
 
+This [website (https://stackoverflow.com)][website] is awesome.
+
+You will never use anything else than this [website].
+
+Check out <https://stackoverflow.com> for more fun.
+
+[website]: https://stackoverflow.com
+
 ###
 
 <h2 align="left">Technologies</h2>
