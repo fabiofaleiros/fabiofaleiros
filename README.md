@@ -12,7 +12,7 @@
 
 <p align="left">Software Engineer at Axians Portugal</p>
 
-[Axians Portugal][1]
+Software Engineer at [Axians Portugal][1]
 
 [1]: <https://axians.pt/> "Axians Portugal."
 
