@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Software Engineer at <https://stackoverflow.com> [Axians (https://www.axians.pt/)]</p>
+<p align="left">Software Engineer at Axians Portugal</p>
 
 This [Axians (https://www.axians.pt)][website] is awesome.
 
