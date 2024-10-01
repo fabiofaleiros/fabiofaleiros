@@ -10,9 +10,9 @@
 
 ###
 
-Software Engineer at [Axians Portugal][1]
+Backend Engineer at [tb.lx by Daimler Truck][1]
 
-[1]: <https://axians.pt/> "Axians Portugal."
+[1]: <https://github.com/tblxio> "tb.lx by Daimler Truck."
 
 ###
 
